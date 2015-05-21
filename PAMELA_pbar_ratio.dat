@@ -1,0 +1,90 @@
+# Data export from the Cosmic-Ray database (http://lpsc.in2p3.fr/crdb)
+# Please cite Maurin, Melot, Taillet, arXiv:1302.5525
+# Date: 2015/05/19
+# Format: GALPROP code (see at the bottom of the file)
+#
+  Ref.  experiment    units              value        Energy        value error                  Z.A sec   |     Z.A pri    [comments]
+X      Y              name   <E>   low    high number    -        +
+==================================================================================================================================== 
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  2.8000e-1  1.2491e-1  4.4030e-1  7.6700e-3  1.9000e-3  2.7500e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  5.6000e-1  4.4030e-1  6.9756e-1  1.0430e-2  3.8600e-3  3.8600e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  8.1000e-1  6.9756e-1  9.4249e-1  1.6790e-2  3.9200e-3  3.9200e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.0700e+0  9.4249e-1  1.2077e+0  2.0230e-2  4.0000e-3  4.0000e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.3400e+0  1.2077e+0  1.4811e+0  2.2780e-2  4.0600e-3  4.0600e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.6300e+0  1.4811e+0  1.8070e+0  2.1650e-2  2.5600e-3  2.5600e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  2.0300e+0  1.8070e+0  2.1955e+0  2.5750e-2  2.3300e-3  2.3300e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  2.4200e+0  2.1955e+0  2.6370e+0  2.1440e-2  1.8300e-3  1.8300e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  2.9000e+0  2.6370e+0  3.1606e+0  2.0050e-2  1.7600e-3  1.7600e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  3.4700e+0  3.1606e+0  3.7760e+0  1.6460e-2  1.3400e-3  1.3400e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  4.1400e+0  3.7760e+0  4.5032e+0  1.5260e-2  1.1300e-3  1.1300e-3  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  4.9300e+0  4.5032e+0  5.3620e+0  1.1790e-2  7.7000e-4  7.7000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  5.9000e+0  5.3620e+0  6.4218e+0  9.4700e-3  5.9000e-4  5.9000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  7.0000e+0  6.4218e+0  7.6134e+0  6.9200e-3  4.5000e-4  4.5000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  8.4000e+0  7.6134e+0  9.2052e+0  5.1800e-3  4.0000e-4  4.0000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.0100e+1  9.2052e+0  1.1098e+1  3.7600e-3  2.6000e-4  2.6000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.2300e+1  1.1098e+1  1.3692e+1  2.2500e-3  1.8000e-4  1.8000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.5300e+1  1.3692e+1  1.7186e+1  1.3600e-3  1.3000e-4  1.3000e-4  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.9600e+1  1.7186e+1  2.2381e+1  7.2700e-4  7.0000e-5  7.0000e-5  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  2.6200e+1  2.2381e+1  3.0776e+1  3.3800e-4  2.9000e-5  2.9000e-5  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  3.8000e+1  3.0776e+1  4.7571e+1  1.2200e-4  1.6000e-5  1.6000e-5  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  6.7400e+1  4.7571e+1  9.9066e+1  2.5000e-5  5.0000e-6  5.0000e-6  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV 1/m2/sr/GeV flux  1.2890e+2  9.9066e+1  1.7906e+2  4.5000e-6  1.9000e-6  3.7000e-6  a 0.0 0.0 0.0         | 0.1 0.0 0.0         1H-bar                              
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 2.8000e-1  1.2491e-1  4.4030e-1  4.5000e-6  1.2000e-6  1.6000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 5.6000e-1  4.4030e-1  6.9756e-1  6.6000e-6  1.3000e-6  1.3000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 8.1000e-1  6.9756e-1  9.4249e-1  1.2900e-5  2.2000e-6  2.2000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.0700e+0  9.4249e-1  1.2077e+0  1.9600e-5  2.6000e-6  2.6000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.3400e+0  1.2077e+0  1.4811e+0  2.8000e-5  3.2000e-6  3.2000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.6300e+0  1.4811e+0  1.8070e+0  3.3200e-5  3.3000e-6  3.3000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 2.0300e+0  1.8070e+0  2.1955e+0  5.4500e-5  4.4000e-6  4.4000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 2.4200e+0  2.1955e+0  2.6370e+0  5.9300e-5  4.5000e-6  4.5000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 2.9000e+0  2.6370e+0  3.1606e+0  7.5000e-5  5.5000e-6  5.5000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 3.4700e+0  3.1606e+0  3.7760e+0  8.4800e-5  6.0000e-6  6.0000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 4.1400e+0  3.7760e+0  4.5032e+0  1.0900e-4  7.0000e-6  7.0000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 4.9300e+0  4.5032e+0  5.3620e+0  1.2000e-4  8.0000e-6  8.0000e-6  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 5.9000e+0  5.3620e+0  6.4218e+0  1.4100e-4  1.0000e-5  1.0000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 7.0000e+0  6.4218e+0  7.6134e+0  1.4900e-4  1.1000e-5  1.1000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 8.4000e+0  7.6134e+0  9.2052e+0  1.6900e-4  1.2000e-5  1.2000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.0100e+1  9.2052e+0  1.1098e+1  1.8800e-4  1.4000e-5  1.4000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.2300e+1  1.1098e+1  1.3692e+1  1.8200e-4  1.4000e-5  1.4000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.5300e+1  1.3692e+1  1.7186e+1  1.8800e-4  1.5000e-5  1.5000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.9600e+1  1.7186e+1  2.2381e+1  1.8700e-4  1.7000e-5  1.7000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 2.6200e+1  2.2381e+1  3.0776e+1  1.8400e-4  2.0000e-5  2.0000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 3.8000e+1  3.0776e+1  4.7571e+1  1.7500e-4  1.9000e-5  1.9000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 6.7400e+1  4.7571e+1  9.9066e+1  1.6700e-4  2.5000e-5  2.5000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+  Ad12 PAMELA(2006/07-2009/12)                       GeV none        ratio 1.2890e+2  9.9066e+1  1.7906e+2  1.6100e-4  7.7000e-5  7.7000e-5  a 1.1 0.0 0.0         | 0.1 0.0 0.0         1H-bar/1H                           
+#
+#---------------------------------------------------------------------------------------------------------------------------------------------
+# =====================
+# Explanation of format
+# =====================
+# c++ software to read and use this data is available from the author.
+#
+# The columns are aligned but the reading routines allow for some flexibility - it is sufficient to use blanks to separate horizontal entries
+# The '#' sign indicates a comment and is ignored
+#
+#  Ref.  experiment    units              value        Energy        value         error                  Z.A sec   |     Z.A pri    [comments]
+#                    X      Y              name   <E>   low    high    number    -        +    
+#====================================================================================================================================
+# Ag02  AMS01     GeV  1/m2/sr/MeV       flux   0.265  0.22   0.31    154.e-2 13.4e-2  0.0   a    0.00  0.00   0.0 | 1.01  0.0   0.0 Table 4.8 linear sum errors
+# ACEW  CRIS      MeV  1/cm2/sr/MeV      ratio 188.0 114.   310.      4.22e-2 0.36e-2  0.0   a   13.26  0.00   0.0 |13.-1  0.0   0.0
+# |     |         |                      |      |      |     |        |      |         |     |   |                 |                 |
+# | Reference key (4 characters) from which data was taken,  as in table at end
+#       | Experiment name (or acronym to distinguish different results from same experiment)
+#                 | units  (energy per nucleon) (MeV,GeV)
+#                      | units of flux (cm2,m2/MeV,GeV)
+#                                        | type of measurement: flux (for spectra e.g. for elements) or ratio (e.g. for B/C)
+#                                               | mean energy as given by authors or computed from low,high
+#                                                      | low energy of range
+#                                                            | high energy of range
+#                                                                     | flux or ratio value
+#                                                                             | error bar -
+#                                                                                       |error bar + (if 0.0 assumed symmetrical)
+#                                                                                            | type of measurment: a=absolute, r=ratio 
+#                                                                                                | secondary Z.A if ratio: up to 3 values to be combined.
+#                                                                                                  A=-1 means all A for given Z e.g. 13.-1=Al elemental
+#                                                                                                                  | primary Z.A if ratio, or isotope Z.A if spectrum 
+#                                                                                                                    up to 3 values to be combined
+#                                                                                                                    A=-1 means all A for given Z e.g. 13.-1=Al elemental
+#                                                                                                                                   | free for comments on this entry
+#
+######################################################################################################################################################################
